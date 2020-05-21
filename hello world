@@ -1,0 +1,6 @@
+ > print("Hello World!")
+[1] "Hello World!"
+
+> # You can suppress quote in output with following code
+> print("Hello World!", quote = FALSE)
+[1] Hello World!
